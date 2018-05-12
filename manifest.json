@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "BuildWithBlack",
+    "description":
+      "A small resource pack that adds light grey outlines to black concrete blocks (by TheDragonRing).",
+    "uuid": "1039e8ec-4c78-11e8-842f-0ed5f89f718b",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description":
+        "A small resource pack that adds light grey outlines to black concrete blocks (by TheDragonRing).",
+      "type": "resources",
+      "uuid": "1039ed2e-4c78-11e8-842f-0ed5f89f718b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
