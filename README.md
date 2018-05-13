@@ -6,4 +6,6 @@ To use it, simply download and open the [`BuildWithBlack.mcpack`](https://raw.gi
 
 _For Minecraft: Bedrock Edition (Windows 10, iOS, Android + more...)_
 
-![](black-concrete.png)
+---
+
+![](black-concrete.jpg)
